@@ -1,5 +1,3 @@
-Here are some ideas to get you started:
-
 Hi! I'm Victor, a FullStack Software Engineer.
 
 I started programming when i was 12, with the goal of producing games (like 90% of teenagers who start programing 😊).

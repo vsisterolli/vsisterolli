@@ -13,8 +13,8 @@ Also, not neglect Soft Skills, such as agile methodologies.
 
 Are you interested in contact me?
 
-⚡ Send a DM to me, at linkedin! (https://www.linkedin.com/in/victorsisterolli/)
+⚡ Send a DM at linkedin! (https://www.linkedin.com/in/victorsisterolli/)
 
-⚡ Email me! (vsisterolli@gmail.com)
+⚡ Send an email! (vsisterolli@gmail.com)
 
 

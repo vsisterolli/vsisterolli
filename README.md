@@ -9,7 +9,7 @@ I might use all these technologies to help with that:
 
 - HTML, CSS, Javascript, Git, React, Node, AWS, Docker.
 
-Also, not neglect Soft Skills, such as agile methodologies.
+I also provide Soft Skills (including Agile Methodologies) while working.
 
 Are you interested in contact me?
 

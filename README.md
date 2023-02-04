@@ -9,13 +9,13 @@ I'm now using all the logic I've developed to solve real-world problems, acting 
 
 That is my current stack for now:
 
-Web development fundamentals: HTML & CSS
-Programming languages: JavaScript/TypeScript (Node) | Python | SQL | C++
-Front-end libraries: React.js
-Databases: Postgres (Relational database) | MongoDB (Non-relational database)
-ORMs: Prisma
-Cloud Technologies: AWS and Docker
-Testing tools: Jest, Cypress and Selenium.
+Web development fundamentals: HTML & CSS  
+Programming languages: JavaScript/TypeScript (Node) | Python | SQL | C++  
+Front-end libraries: React.js  
+Databases: Postgres (Relational database) | MongoDB (Non-relational database)  
+ORMs: Prisma  
+Cloud Technologies: AWS and Docker  
+Testing tools: Jest, Cypress and Selenium.  
 
 Don't see any technology that you think it's crucial? Don't worry! I assure you I can learn it faster than you can blink 😊.
 

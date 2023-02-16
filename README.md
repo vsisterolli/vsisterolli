@@ -16,14 +16,14 @@ That is my current stack for now:
 
 <h1>Front-end</h1>
 <div style="display: flex">
-  <div> 
-    <p>HTML5</p>
-    <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
-  </div>
     <div> 
-      <p>HTML5</p:
     <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
+    <p>HTML5</p:
   </div>
+   <div>
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />
+     <p>CSS3</p>
+   </div>
 </div>
 
 Don't see any technology that you think it's crucial? Don't worry! I assure you I can learn it faster than you can blink 😊.

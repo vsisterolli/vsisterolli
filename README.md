@@ -23,7 +23,16 @@ That is my current stack for now:
   </tr>
 </table>
 
-Don't see any technology that you think it's crucial? Don't worry! I assure you I can learn it faster than you can blink 😊.
+<h2>Back-end</h2>
+<table>
+  <tr>
+    <td valign="top"><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node" title="Node" /><p>Node</p></td>
+    <td valign="top"><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" title="TypeScript" /><p>TypeScript</p></td>
+    <td valign="top"><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" title="Python" /><p>Python</p></td>
+  </tr>
+</table>
+
+Don't see any technology that you think it's crucial? Don't worry! I assure you I can learn it very quick 😊.
 
 With this stack, I was able to produce more than 10 complete projects acting as a full-stack web developer. If you need a responsive layout or a RESTful API then you can count on me!
 

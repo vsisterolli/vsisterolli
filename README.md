@@ -23,12 +23,22 @@ That is my current stack for now:
   </tr>
 </table>
 
-<h2>Back-end</h2>
+<h1>Back-end</h1>
 <table>
   <tr>
     <td valign="top"><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="Node" title="Node" /><p>Node</p></td>
     <td valign="top"><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" title="TypeScript" /><p>TypeScript</p></td>
     <td valign="top"><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" title="Python" /><p>Python</p></td>
+  </tr>
+</table>
+
+<h1>Database-related</h1>
+<table>
+  <tr>
+    <td valign="top"><img height="50" src="https://cdn-icons-png.flaticon.com/512/4492/4492311.png" alt="SQL" title="SQL" /><p>SQL</p></td>
+    <td valign="top"><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" title="PostgreSQL" /><p>PostgreSQL</p></td>
+    <td valign="top"><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-226029.png?f=avif&w=256" alt="MongoDB" title="MongoDB" /><p>MongoDB</p></td>
+    <td valign="top"><img height="50" src="https://cdn-icons-png.flaticon.com/512/7531/7531781.png" alt="Prisma" title="Prisma" /><p>PrismaORM</p></td>
   </tr>
 </table>
 

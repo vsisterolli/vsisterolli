@@ -14,6 +14,7 @@ Ended up discovering competitive programming and it fitted perfectly for me, who
 
 That is my current stack for now:
 
+<h1>Front-end</h1>
 <div style="display: flex">
   <div> 
     <p>HTML5</p>
@@ -21,7 +22,7 @@ That is my current stack for now:
   </div>
     <div> 
       <p>HTML5</p:
-      <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"     />
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
   </div>
 </div>
 

@@ -32,6 +32,7 @@ That is my current stack for now:
   </tr>
 </table>
 
+
 <h1>Database-related</h1>
 <table>
   <tr>
@@ -50,11 +51,19 @@ That is my current stack for now:
   </tr>
 </table>
 
-Don't see any technology that you think it's crucial? Don't worry! I assure you I can learn it very quick 😊.
+<h1>Others</h1>
+<table>
+  <tr>
+    <td valign="top"><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png?f=avif&w=256" alt="AWS" title="AWS" /><p>AWS</p></td>
+    <td valign="top"><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/docker-11-1175228.png?f=avif&w=256" alt="Docker" title="Docker" /><p>Docker</p></td>
+  </tr>
+</table>
+
+Don't see any technology that you think it's crucial? Don't worry! I assure you I can learn it faster than you can blink 😊.
 
 With this stack, I was able to produce more than 10 complete projects acting as a full-stack web developer. If you need a responsive layout or a RESTful API then you can count on me!
 
-I also have experience with Soft Skills and Agile Methodologies such as Kanban.
+I also have experience with Soft Skills and Agile Methodologies such as SCRUM and Kanban.
 
 It will be a pleasure to answer you in one of my social medias
 

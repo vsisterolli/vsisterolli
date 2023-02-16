@@ -42,6 +42,14 @@ That is my current stack for now:
   </tr>
 </table>
 
+<h1>Tests</h1>
+<table>
+  <tr>
+    <td valign="top"><img height="50" src="https://cdn.iconscout.com/icon/free/png-512/jest-3628860-3030000.png?f=avif&w=256" alt="Jest" title="Jest" /><p>Jest</p></td>
+    <td valign="top"><img height="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/selenium-6320141-5215494.png?f=avif&w=256" alt="Selenium" title="Selenium" /><p>Selenium</p></td>
+  </tr>
+</table>
+
 Don't see any technology that you think it's crucial? Don't worry! I assure you I can learn it very quick 😊.
 
 With this stack, I was able to produce more than 10 complete projects acting as a full-stack web developer. If you need a responsive layout or a RESTful API then you can count on me!

@@ -5,10 +5,12 @@
     <tr>
       <td align="left" width="60%">
          <p style="text-indent: 20px;">I started programming when I was 12, to produce games (like 90% of teenagers who start programming 😊).
-Ended up discovering competitive programming and it fitted perfectly for me, who always loved challenging myself and my logic to solve all kinds of problems. As a competitive programmer, I became a tri-medallist reaching the top 6 of my country in the national high school competition in algorithms, data structures, and programming logic. Now, I'm using all the logic I've developed to solve real-world problems.</p>
+Ended up discovering competitive programming and it fitted perfectly for me, who always loved challenging myself and my logic to solve all kinds of problems. As a competitive programmer, I became a tri-medallist reaching the top 6 of my country in the national high school competition in algorithms, data structures, and programming logic. Now, I'm using all the logic I've developed to solve real-world problems. </p>
    </tr>
   </tbody>
 </table>
+
+** You should definetely check my portfolio, there is all you need to know about me in a very pretty and simplfiied form: <a href="https://vsisterolli-portfolio.vercel.app/" target="_blank">Click here!</a> **
 
 That is my current stack for now:
 

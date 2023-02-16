@@ -10,6 +10,8 @@ Ended up discovering competitive programming and it fitted perfectly for me, who
   </tbody>
 </table>
 
+<img alt="Monkey Coding" src="https://github.com/VictorHugoAguilar/VictorHugoAguilar/blob/main/assets/mono-programador.gif?raw=true" align="center"/> 
+
 <h1> Portfolio</h1>
 **You should definetely check my portfolio, there is all you need to know about me in a very pretty and simplfiied form: <a href="https://vsisterolli-portfolio.vercel.app/" target="_blank">Click here!</a>**
 

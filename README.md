@@ -18,7 +18,8 @@ That is my current stack for now:
 <table>
   <tr>
     <td valign="top"><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /><p>HTML5</p></td>
-    <td valign="top"><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></td>
+    <td valign="top"><img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" title="CSS" /><p>CSS</p></td>
+    <td valign="top"><img height="50" src="https://cdn-icons-png.flaticon.com/512/875/875209.png" alt="React" title="React" /><p>React</p></td>
   </tr>
 </table>
 

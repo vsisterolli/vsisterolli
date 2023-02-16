@@ -28,9 +28,11 @@ With this stack, I was able to produce more than 10 complete projects acting as 
 
 I also have experience with Soft Skills and Agile Methodologies such as Kanban.
 
-Are you interested in contacting me?
+It will be a pleasure if you want to contact me
 
-⚡ Send a DM at <a href="https://www.linkedin.com/in/victorsisterolli/">linkedin!  <img alt="vsisterolli linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-⚡ Send an email! (vsisterolli@gmail.com)
-
+<a href="mailto: vsisterolli@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+ <a href="https://www.linkedin.com/in/victorsisterolli/" target="_blank">
+  <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>

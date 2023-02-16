@@ -1,11 +1,14 @@
-Hi! I'm Victor, a programmer!
+## **Hi! I'm Victor, a programmer!**
 
-I started programming when I was 12, to produce games (like 90% of teenagers who start programming 😊).
-Ended up discovering competitive programming and it fitted perfectly for me, who always loved challenging myself and my logic to solve all kinds of problems.
-
-As a competitive programmer, I became a tri-medallist reaching the top 6 of my country in the national high school competition in algorithms, data structures, and programming logic.
-
-I'm now using all the logic I've developed to solve real-world problems, acting as a web developer.
+<table>
+  <tbody>
+    <tr>
+      <td align="left" width="60%">
+         <p style="text-indent: 20px;">I started programming when I was 12, to produce games (like 90% of teenagers who start programming 😊).
+Ended up discovering competitive programming and it fitted perfectly for me, who always loved challenging myself and my logic to solve all kinds of problems. As a competitive programmer, I became a tri-medallist reaching the top 6 of my country in the national high school competition in algorithms, data structures, and programming logic. Now, I'm using all the logic I've developed to solve real-world problems.</p>
+   </tr>
+  </tbody>
+</table>
 
 That is my current stack for now:
 

@@ -10,6 +10,7 @@ Ended up discovering competitive programming and it fitted perfectly for me, who
   </tbody>
 </table>
 
+<h1> Portfolio</h1>
 **You should definetely check my portfolio, there is all you need to know about me in a very pretty and simplfiied form: <a href="https://vsisterolli-portfolio.vercel.app/" target="_blank">Click here!</a>**
 
 That is my current stack for now:

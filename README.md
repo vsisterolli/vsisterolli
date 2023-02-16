@@ -17,7 +17,7 @@ That is my current stack for now:
 <h1>Front-end</h1>
 <table>
   <tr>
-    <td valign="top"><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></td>
+    <td valign="top"><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /><p>HTML5</p></td>
     <td valign="top"><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></td>
   </tr>
 </table>

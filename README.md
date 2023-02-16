@@ -14,13 +14,16 @@ Ended up discovering competitive programming and it fitted perfectly for me, who
 
 That is my current stack for now:
 
-Web development fundamentals: HTML & CSS  
-Programming languages: JavaScript/TypeScript (Node) | Python | SQL | C++  
-Front-end libraries: React.js  
-Databases: Postgres (Relational database) | MongoDB (Non-relational database)  
-ORMs: Prisma  
-Cloud Technologies: AWS and Docker  
-Testing tools: Jest, Cypress, and Selenium.  
+<div style="display: flex">
+  <div> 
+    <h1>HTML5</h1>
+    <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
+  </div>
+    <div> 
+      <h1>HTML5</h1>
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"     />
+  </div>
+</div>
 
 Don't see any technology that you think it's crucial? Don't worry! I assure you I can learn it faster than you can blink 😊.
 
@@ -28,7 +31,7 @@ With this stack, I was able to produce more than 10 complete projects acting as 
 
 I also have experience with Soft Skills and Agile Methodologies such as Kanban.
 
-It will be a pleasure if you want to contact me
+It will be a pleasure to answer you in one of my social medias
 
 <a href="mailto: vsisterolli@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white">

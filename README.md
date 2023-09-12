@@ -5,7 +5,11 @@
     <tr>
       <td align="left" width="60%">
          <p style="text-indent: 20px;">I started programming when I was 12, to produce games (like 90% of teenagers who start programming 😊).
-Ended up discovering competitive programming and it fitted perfectly for me, who always loved challenging myself and my logic to solve all kinds of problems. As a competitive programmer, I became a tri-medallist reaching the top 6 of my country in the national high school competition in algorithms, data structures, and programming logic. Now, I'm using all the logic I've developed to solve real-world problems and design the most efficient solutions. </p>
+Ended up discovering competitive programming and it fitted perfectly for me, who always loved challenging myself and my logic to solve all kinds of problems. 
+           
+As a competitive programmer, I became a tri-medallist reaching the top 6 of my country in the national high school competition in algorithms, data structures, and programming logic. 
+
+Now, I'm currently working as a Software Engineer in Resonanz Group, designing efficient solutions to one their main product, QuickTrials!. </p>
    </tr>
   </tbody>
 </table>

@@ -59,7 +59,7 @@ That is my current stack for now:
   </tr>
 </table>
 
-Don't see any technology that you think it's crucial? Don't worry! I assure you I can learn it faster than you can blink 😊.
+Don't see any technology that you think it's crucial? Don't worry! I assure you I can learn it faster than you think 😊.
 
 With this stack, I was able to produce more than 10 complete projects acting as a full-stack web developer. If you need a responsive layout or a RESTful API then you can count on me!
 

@@ -6,6 +6,8 @@
          <p style="text-indent: 20px;">I really like math and coding, currently studying a lot to become a Machine Learning specialist.
 
 Since High School, I participated in a lot of math, algorithms and data structures competition, like the ACM-ICPC and IOI (International Olympiad in Informatics)-like competitions. So, becoming a Data Scientist and a Machine Learning engineer is just the natural path, thinking, solving problems, extracting useful insights in a world of data is really what I like doing!
+
+I'm currently finishing my graduation on Computer Science at UNICAMP, which is the second best university in Latin America accordingly to many ranks.
 <p style="margin: 30px;" align="center">
   <img src="https://github.com/user-attachments/assets/de3dec66-c528-437b-97ce-861abee0609b">
 </p>
